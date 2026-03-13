@@ -60,6 +60,9 @@ Open circuit characteristics
 <img width="881" height="752" alt="Screenshot 2026-03-13 083401" src="https://github.com/user-attachments/assets/a067aa5b-219c-42a2-99fa-44924d29d6cb" />
 
 
+
+
+
 <img width="817" height="719" alt="Screenshot 2026-03-13 083416" src="https://github.com/user-attachments/assets/40630676-297f-4d42-a9d3-992d596226b5" />
 
 Result:
